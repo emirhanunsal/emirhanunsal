@@ -4,7 +4,7 @@ I'm Emirhan, a 3rd-year Computer Engineering student at Marmara University. I'm 
 
 My projects primarily focus on game development and software engineering.
 
-My latest project is **Lunar Shadows**, a hack-and-slash game. You can see the details below.
+My latest project is **Lunar Shadows**, a hack-and-slash game. You can see the details in the pinned repositories below.
 
 ## Contact
 
